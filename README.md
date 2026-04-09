@@ -10,3 +10,6 @@
 - gh auth login
 - gh repo create --public --source=. --remote=origin --push
 
+- git branch packer-framework
+- git checkout -b lazy-framework
+
